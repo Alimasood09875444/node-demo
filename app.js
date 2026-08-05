@@ -25,3 +25,16 @@ while(d<=10){
   
   
 }
+
+let users=["Ali","masood","hayyan"]
+console.log(users);
+console.log(users[0]);
+
+let Heros={
+  name:"masood",
+  age:43,
+city:"multan"
+}
+console.log(Heros);
+console.log(Heros.city);
+
