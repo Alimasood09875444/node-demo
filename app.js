@@ -13,3 +13,15 @@ if (b==7) {
   console.log("else statement Done");
   
 }
+
+/* for (a=0; a<=10;a++){
+  console.log(a);
+  
+} */
+let d=10;
+while(d<=10){
+  d++;
+  console.log(d);
+  
+  
+}
